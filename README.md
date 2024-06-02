@@ -24,7 +24,7 @@ Welcome to a simple text-based version of Pac-Man! Please note that this version
 - In the Microsoft Assembler settings, add the path of the `irvine` folder to the include paths.
 
 ## Sound and Debugging 🛠️
-- **Sound:** Sound functionality is implemented yet but files be added in future updates that's why it can create issue but game works fine.
+- **Sound:** Sound functionality is implemented yet but files be added in future updates that's why it can create warning sound but game works fine.
 - **Debugging:** Some debugging is remaining, and contributions are appreciated.
 
 ## How to Run 🚀
@@ -35,5 +35,5 @@ Welcome to a simple text-based version of Pac-Man! Please note that this version
 - Contributions are appreciated! If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 ## Video
-[![Gameplay Video](https://img.youtube.com/vi/YOUR_VIDEO_ID/0.jpg)]
+![Gameplay Video][https://drive.google.com/file/d/1cChtQMueCt0uTdb17Lnk71_08nDZ_sbs/view?usp=sharing]
 
