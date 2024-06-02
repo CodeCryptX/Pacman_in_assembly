@@ -35,5 +35,4 @@ Welcome to a simple text-based version of Pac-Man! Please note that this version
 - Contributions are appreciated! If you encounter any issues or have suggestions, please open an issue on GitHub.
 
 ## Video
-![Gameplay Video][https://drive.google.com/file/d/1cChtQMueCt0uTdb17Lnk71_08nDZ_sbs/view?usp=sharing]
-
+[Watch Gameplay Video](https://drive.google.com/file/d/1cChtQMueCt0uTdb17Lnk71_08nDZ_sbs/preview)
